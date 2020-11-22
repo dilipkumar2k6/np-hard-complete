@@ -72,6 +72,6 @@ Let's say following are hard problem
 # NP Complete class
 - If you wrote NP alogorithm then it is called NP Complete
 - Satisfiability is also categoriazed as NP Complete
-
+![](assets/np-hard-np-complete.png)
 # Reference 
 https://www.youtube.com/watch?v=e2cF8a5aAhE
